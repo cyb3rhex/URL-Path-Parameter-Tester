@@ -48,7 +48,7 @@ This single-page application demonstrates RESTful URL patterns through a series 
 
 ## Getting Started
 
-1. Clone this repository (git clone https://github.com/cyb3rhex)
+1. Clone this repository (git clone [https://github.com/cyb3rhex](https://github.com/cyb3rhex/URL-Path-Parameter-Tester/))
 2. Host test.php to any server
 3. Start making selections to see the URL update
 4. Try entering a custom URL to see the selections update
